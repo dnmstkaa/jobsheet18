@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_pplg" type="id" />
+    <item name="nav_tpfl" type="id" />
+    <item name="nav_to" type="id" />
+    <item name="nav_busana" type="id" />
+    <item name="nav_kuliner" type="id" />
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource">
+    <item
+        android:id="@+id/nav_pplg"
+        android:title="pplg"/>
+    <item
+        android:id="@+id/nav_to"
+        android:title="To"/>
+    <item
+        android:id="@+id/nav_tpfl"
+        android:title="Tpfl"/>
+    <item
+        android:id="@+id/nav_busana"
+        android:title="Busana"/>
+    <item
+        android:id="@+id/nav_kuliner"
+        android:title="Kuliner"/>
+</menu>
